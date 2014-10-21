@@ -1,0 +1,137 @@
+
+/* la metabox de custom post fields */
+#postcustom .inside {
+	margin: 0;
+	padding: 0;
+	border-top: 1px solid #DFDFDF;
+	margin-top: -1px;
+}
+	#postcustom .inside > p {
+		display: none;
+	}
+	#postcustomstuff {
+		
+	}
+		#postcustomstuff table {
+			border: none;
+		}
+		#postcustomstuff #list-table {
+			
+		}
+			#postcustomstuff #list-table thead {
+			}
+				#postcustomstuff #list-table thead th {
+					text-align: left;
+					padding-left: 13px;
+					border-bottom: 1px solid #DFDFDF;
+					background: #FFF;
+				}
+			#postcustomstuff #list-table tbody {
+				
+			}
+				#postcustomstuff #list-table tbody tr {
+				}
+				#postcustomstuff #list-table tbody tr.alternate {
+				}
+					#postcustomstuff #list-table tbody tr[id] td {
+						border-bottom: 1px solid #DFDFDF !important;
+					}
+						#postcustomstuff #list-table tbody td label {
+							
+						}
+						#postcustomstuff #list-table tbody td textarea {
+							min-height: 4em;
+						}
+							#postcustomstuff #list-table tbody td textarea,
+							#postcustomstuff #list-table tbody td input[type="text"] {
+								border: 1px solid transparent;
+								background-color: transparent;
+								box-shadow: none;
+								-webkit-box-shadow: none;
+							}
+								#postcustomstuff #list-table tbody td textarea:focus,
+								#postcustomstuff #list-table tbody td input[type="text"]:focus {
+									border-color: #DDD;
+									-webkit-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.07);
+									box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.07);
+									background-color: #FFF;
+								}
+
+					#postcustomstuff #list-table tbody td.left { /* la columna de el select key */
+						
+					}
+						#postcustomstuff #list-table tbody td input[type="text"] {
+							
+						}
+						#postcustomstuff #list-table tbody td .submit {
+							
+						}
+							#postcustomstuff #list-table tbody td .submit input[type="submit"] {
+								color: #DBDBDB;
+								border-color: transparent;
+								background: transparent;
+								-webkit-box-shadow: none;
+								box-shadow: none;
+							}
+								#postcustomstuff #list-table tbody td .submit input[type="submit"]:hover {
+									color: #555;
+									border-color: #CCC;
+									background: #F7F7F7;
+									-webkit-box-shadow: inset 0 1px 0 #FFF,0 1px 0 rgba(0, 0, 0, 0.08);
+									box-shadow: inset 0 1px 0 #FFF,0 1px 0 rgba(0, 0, 0, 0.08);
+								}
+								#postcustomstuff #list-table tbody td .submit input[type="submit"].deletemeta {
+									
+								}
+								#postcustomstuff #list-table tbody td .submit input[type="submit"].updatemeta {
+									
+								}
+		#postcustomstuff p {
+			display: none;
+		}
+			#postcustomstuff p strong {
+			}
+
+
+
+
+
+		#postcustomstuff #newmeta {
+			background: #FFF;
+			/*border-top: 1px solid #DFDFDF;*/
+			padding-top: 1em;
+			padding-bottom: 1em;
+		}
+			#postcustomstuff #newmeta thead {
+				display: none;
+			}
+				#postcustomstuff #newmeta thead th {
+					
+				}
+					#postcustomstuff #newmeta thead th label {
+						
+					}
+			#postcustomstuff #newmeta tbody {
+				
+			}
+				#postcustomstuff #newmeta tbody tr {
+					
+				}
+					#postcustomstuff #newmeta tbody tr td.left {
+						
+					}
+						#postcustomstuff #newmeta tbody tr td.left select {
+							
+						}
+						#postcustomstuff #newmeta tbody tr td.left a {
+							
+						}
+					#postcustomstuff #newmeta tbody tr td textarea {
+						min-height: 4em;
+					}
+					#postcustomstuff #newmeta tbody tr td .submit {
+						
+					}
+						#postcustomstuff #newmeta tbody tr td .submit input[type="submit"] {
+							
+						}
